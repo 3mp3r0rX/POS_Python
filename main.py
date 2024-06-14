@@ -232,8 +232,6 @@ s.configure('orderTransaction.TLabel',
 
 
 
-# Top Banner images
-
 
 # Menu images
 displayDefaultImageObject = Image.open("Images/display - Default.png").resize((450,580))
